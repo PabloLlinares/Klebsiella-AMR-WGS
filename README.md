@@ -25,7 +25,7 @@ The project analyses publicly available *Klebsiella pneumoniae* whole genome seq
 
 The complete workflow is illustrated below.
 
-![Bioinformatics workflow](workflow/pipeline_workflow.png)
+![Bioinformatics workflow](workflow/Workflow.png)
 
 The pipeline consisted of the following steps:
 
